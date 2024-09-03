@@ -1,0 +1,1 @@
+User management application scaffold built using GPT as a helping hand and a lot of debugging.
